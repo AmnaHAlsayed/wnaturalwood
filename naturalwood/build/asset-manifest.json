@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51d7649b.chunk.css",
+    "main.js": "/static/js/main.777d732b.chunk.js",
+    "main.js.map": "/static/js/main.777d732b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.036c92eb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.036c92eb.js.map",
+    "static/js/2.92cc93aa.chunk.js": "/static/js/2.92cc93aa.chunk.js",
+    "static/js/2.92cc93aa.chunk.js.map": "/static/js/2.92cc93aa.chunk.js.map",
+    "static/js/3.5e0699e2.chunk.js": "/static/js/3.5e0699e2.chunk.js",
+    "static/js/3.5e0699e2.chunk.js.map": "/static/js/3.5e0699e2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.51d7649b.chunk.css.map": "/static/css/main.51d7649b.chunk.css.map",
+    "static/js/2.92cc93aa.chunk.js.LICENSE.txt": "/static/js/2.92cc93aa.chunk.js.LICENSE.txt",
+    "static/media/NaturalWOODLOgo.PNG": "/static/media/NaturalWOODLOgo.95ebca53.PNG",
+    "static/media/img5.dfbc9f76.jpeg": "/static/media/img5.dfbc9f76.jpeg",
+    "static/media/img6.c5880546.jpeg": "/static/media/img6.c5880546.jpeg",
+    "static/media/img7.c3d5e9dd.jpeg": "/static/media/img7.c3d5e9dd.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.036c92eb.js",
+    "static/js/2.92cc93aa.chunk.js",
+    "static/css/main.51d7649b.chunk.css",
+    "static/js/main.777d732b.chunk.js"
+  ]
+}
